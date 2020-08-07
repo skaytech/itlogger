@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 2,
+      "id": 1,
       "message": "025 Machine Mouse is not responsive",
       "severity": true,
-      "assigned": "Peter Jones",
-      "date": "2020-08-07T07:24:56.900Z"
+      "assigned": "Raman Lamba",
+      "date": "2020-08-07T13:47:09.461Z"
     },
     {
       "message": "010 Monitor Flickering problem needs attention",
       "severity": true,
       "assigned": "Sam Smith",
       "date": "2020-08-07T08:06:19.726Z",
-      "id": 3
+      "id": 2
     },
     {
       "message": "050 Speakers volume output very low",
       "severity": false,
       "assigned": "Peter Jones",
       "date": "2020-08-07T08:06:37.308Z",
-      "id": 4
+      "id": 3
     }
   ],
   "techs": [
@@ -29,14 +29,14 @@
       "lastName": "Smith"
     },
     {
-      "id": 2,
-      "firstName": "Laura",
-      "lastName": "Ponds"
+      "firstName": "Peter",
+      "lastName": "Jones",
+      "id": 2
     },
     {
-      "id": 3,
-      "firstName": "Peter",
-      "lastName": "Jones"
+      "firstName": "Raman",
+      "lastName": "Lamba",
+      "id": 3
     }
   ]
 }
